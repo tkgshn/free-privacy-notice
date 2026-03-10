@@ -1,5 +1,5 @@
 プレビューはこちらから
-https://civichat.github.io/free-privacy-notice/src/demo
+https://tkgshn.github.io/free-privacy-notice/
 
 # デザインファーストのプライバシー通知テンプレート
 
@@ -9,8 +9,6 @@ Juro Privacy Noticeは、https://juro.com と https://stefaniapassera.com/ に�
 その結果、プライバシーポリシーの閲覧数が13,000%増加しました。このポリシーは現在、世界で最も多く引用されているポリシーの一つであり、クリーンな情報デザインの例として頻繁に使用されています。
 
 こちらをご覧ください： https://juro.com/#privacy-popup
-
-<a href="https://civichat.gyazo.com/b99e3e4fa4c419537c679fc1dc24919c"><img src="https://t.gyazo.com/teams/civichat/b99e3e4fa4c419537c679fc1dc24919c.jpg" alt="Image from Gyazo" width="1233"/></a>
 
 今なら、Juroのプライバシーポリシーで作成したデザインパターンを、ご自身のウェブサイトのプライバシーポリシーに無料でご利用いただけます。 <b>この文言とこれらのリンクでクレジットを記載するだけです。</b>
  
